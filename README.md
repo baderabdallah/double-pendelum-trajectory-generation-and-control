@@ -202,7 +202,3 @@ Check the `Videos/` folder for demonstration videos showing the different contro
 - Robotics Toolbox for MATLAB by Peter Corke
 - Modern Robotics: Mechanics, Planning, and Control
 - Classical control theory and nonlinear dynamics literature
-
----
-
-**Note:** This project serves as both a learning tool for robotics students and a benchmark for comparing different control strategies on a complex nonlinear system.
