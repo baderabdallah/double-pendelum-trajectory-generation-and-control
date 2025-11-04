@@ -6,24 +6,29 @@ A comprehensive MATLAB/Simulink implementation of various control strategies for
 
 ### System Behavior Demonstrations
 
-**Free Response of Double Pendulum**  
-[Watch Video](https://github.com/user-attachments/assets/115badbf-d032-4918-a3c8-446416cc9849)
+**Free Response of Double Pendulum**
+
+https://github.com/user-attachments/assets/115badbf-d032-4918-a3c8-446416cc9849
 
 ### Control Demonstrations
 
-**Cartesian Point Tracking**  
-[Watch Video](https://github.com/user-attachments/assets/1386691a-06f8-4bbd-aa63-51c930f5369f)
+**Cartesian Point Tracking**
 
-**Trajectory Following Control**  
-[Watch Video](https://github.com/user-attachments/assets/1e76701c-3af7-41a0-a624-33b2fbf130d3)
+https://github.com/user-attachments/assets/1386691a-06f8-4bbd-aa63-51c930f5369f
+
+**Trajectory Following Control**
+
+https://github.com/user-attachments/assets/1e76701c-3af7-41a0-a624-33b2fbf130d3
 
 ### Stabilization Control Performance
 
-**Upright Centering - Slow Response**  
-[Watch Video](https://github.com/user-attachments/assets/f5f47e83-1252-4d72-85ac-b36f1aa6b5b4)
+**Upright Centering - Slow Response**
 
-**Upright Centering - Fast Response**  
-[Watch Video](https://github.com/user-attachments/assets/731587c3-f4a6-4cd3-a58c-b647bee29e2c)
+https://github.com/user-attachments/assets/f5f47e83-1252-4d72-85ac-b36f1aa6b5b4
+
+**Upright Centering - Fast Response**
+
+https://github.com/user-attachments/assets/731587c3-f4a6-4cd3-a58c-b647bee29e2c
 
 ## 📋 Table of Contents
 
