@@ -30,19 +30,6 @@ https://github.com/user-attachments/assets/f5f47e83-1252-4d72-85ac-b36f1aa6b5b4
 
 https://github.com/user-attachments/assets/731587c3-f4a6-4cd3-a58c-b647bee29e2c
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Control Methods](#control-methods)
-- [System Parameters](#system-parameters)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 Overview
 
